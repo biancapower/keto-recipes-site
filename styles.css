@@ -72,6 +72,14 @@ nav a {
 
 }
 
+.recipe h3 {
+    margin-top: 5px;
+}
+
+.recipe li {
+    margin-bottom: 10px;
+}
+
 .recipe-a {
     grid-column-start: 1;
     grid-column-end: span 1;
